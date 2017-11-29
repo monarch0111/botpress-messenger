@@ -11,7 +11,8 @@ module.exports = function(bp, messenger) {
       locale: profile.locale,
       picture_url: profile.profile_pic,
       first_name: profile.first_name,
-      last_name: profile.last_name
+      last_name: profile.last_name,
+      subplatform: 'FB'
     }
   }
 
