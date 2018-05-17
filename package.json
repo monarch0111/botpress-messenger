@@ -46,7 +46,8 @@
     "node-fetch": "^1.6.3",
     "react-audio-player": "^0.5.0",
     "react-player": "^0.18.0",
-    "uuid": "^3.0.0"
+    "uuid": "^3.0.0",
+    "botpress": "^1.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
